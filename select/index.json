@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Juvenile",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-02T17:24:50.418609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enemy Turf (feat. Juvenile)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/01_Enemy_Turf_(feat._Juvenile)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loud Pipes (feat. Big Tymers, Juvenile & B.G.)",
+      "artist": "Lil Wayne feat. Big Tymers, Juvenile & B.G.",
+      "has_synced": true,
+      "path": "select/02_Loud_Pipes_(feat._Big_Tymers,_Juvenile_&_B.G.)_Lil_Wayne_feat._Big_Tymers,_Juvenile_&_B.G..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loud Pipes (feat. Big Tymers, Juvenile & B.G.)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/03_Loud_Pipes_(feat._Big_Tymers,_Juvenile_&_B.G.)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Respect Us (feat. Juvenile)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/04_Respect_Us_(feat._Juvenile)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "U Can't Resist (feat. B.G. & Juvenile)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/05_U_Can't_Resist_(feat._B.G._&_Juvenile)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "U Can't Resist (feat. Juvenile & B.G.)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/06_U_Can't_Resist_(feat._Juvenile_&_B.G.)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Juvenile",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_My_Juvenile_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Juvenile",
+      "artist": "The Blaze",
+      "has_synced": true,
+      "path": "select/08_Juvenile_The_Blaze.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aintchu (feat. Juvenile)",
+      "artist": "Future & Zaytoven",
+      "has_synced": false,
+      "path": "select/09_Aintchu_(feat._Juvenile)_Future_&_Zaytoven.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Make Dat Azz Clap (Back Clap) (feat. Juvenile)",
+      "artist": "Project Pat",
+      "has_synced": false,
+      "path": "select/10_Make_Dat_Azz_Clap_(Back_Clap)_(feat._Juvenile)_Project_Pat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Juvenile",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/11_The_Juvenile_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hypnotize Cash Money (feat. Hot Boyz, Juvenile, BG & Big Tymers)",
+      "artist": "Tear Da Club Up Thugs, Hot Boyz, Juvenile, B!G & Big Tymers",
+      "has_synced": false,
+      "path": "select/12_Hypnotize_Cash_Money_(feat._Hot_Boyz,_Juvenile,_BG_&_Big_Tymers)_Tear_Da_Club_Up_Thugs,_Hot_Boyz,_Juvenile,_B!G_&_Big_Tymers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Juvenile Delinquent",
+      "artist": "Frehley's Comet",
+      "has_synced": false,
+      "path": "select/13_Juvenile_Delinquent_Frehley's_Comet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Juvenile",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/14_Juvenile_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Emerald / Burgundy (feat. Juvenile & Juicy J)",
+      "artist": "Chris Brown feat. JUVENILE & Juicy J",
+      "has_synced": true,
+      "path": "select/15_Emerald___Burgundy_(feat._Juvenile_&_Juicy_J)_Chris_Brown_feat._JUVENILE_&_Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Not a Juvenile Delinquent",
+      "artist": "Frankie Lymon & The Teenagers",
+      "has_synced": false,
+      "path": "select/16_I'm_Not_a_Juvenile_Delinquent_Frankie_Lymon_&_The_Teenagers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm Not A Juvenile Delinquent",
+      "artist": "Frankie Lymon And The Teenagers",
+      "has_synced": false,
+      "path": "select/17_I'm_Not_A_Juvenile_Delinquent_Frankie_Lymon_And_The_Teenagers.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm Not a Juvenile Delinquent",
+      "artist": "Frankie Lymon & The Teenagers",
+      "has_synced": true,
+      "path": "select/18_I'm_Not_a_Juvenile_Delinquent_Frankie_Lymon_&_The_Teenagers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Juvenile",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Juvenile_ONE_OK_ROCK.txt"
+    }
+  ]
+}
