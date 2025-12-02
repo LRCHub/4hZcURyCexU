@@ -1,0 +1,78 @@
+# ONE OK ROCK – Juvenile
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:24.02] On one lonely night
+[00:27.25] Drenched in rain
+[00:29.05] Oh what can I see?
+[00:31.18] And you wander about
+[00:34.27] Feel the pain
+[00:36.16] You know how far we came from home?
+[00:53.66] 
+[00:38.87] Who'll let you know
+[00:41.46] If I'm safe
+[00:43.32] It's not what I see
+[00:45.51] I have never heard life's always hard
+[00:49.05] Go wrong, it's alright
+[01:00.05] 
+[00:59.34] Don't be shy whenever you want something
+[01:02.88] What you waiting for?
+[01:05.05] Find your door
+[01:06.49] Gotta hold your own and stay don't run away
+[01:09.82] When you show (will to live there's no way you)
+[01:13.68] Will lose it after finding that anything
+[01:16.94] 'Cause life is full of points you score
+[01:20.58] You'll see, brighter days coming
+[01:22.55] All the nights becoming day
+[01:25.93] On your mark!
+[01:32.43] 
+[01:28.27] One place to be?
+[01:30.97] Where are we?
+[01:33.15] Not what it seems for sure
+[01:36.26] Coming up, bring it up
+[01:39.96] Let your mind set you free
+[01:52.96] 
+[01:42.45] Hold up! hear that noise?
+[01:44.36] Watch out! someone annoys?
+[01:46.02] You know, they are breaking
+[01:47.89] What we built
+[01:49.43] I've never seen I've never thought it would come
+[01:54.25] It's alright
+[02:00.25] 
+[02:03.14] Don't be shy whenever you want something
+[02:06.78] What you waiting for?
+[02:08.73] Find your door
+[02:10.32] Gotta hold your own and stay don't run away
+[02:13.64] When you show (will to live there's no way you)
+[02:17.40] Will lose it after finding that"anything"
+[02:20.78] Cuz life is full of points you score
+[02:24.18] You'll see, brighter days coming
+[02:26.32] All the nights becoming day
+[02:29.63] On your mark!
+[02:36.13] 
+[02:46.02] Gosh!
+[02:47.11] Pushing too rough!
+[02:48.79] Packing to punch!
+[02:50.51] It's just too much!
+[02:52.33] Heading to ditch!
+[02:54.17] Ignoring your wish!
+[02:55.75] Much time to miss!
+[02:57.52] But I can't reach!
+[03:06.52] 
+[03:00.72] No matter how much you try to live good
+[03:04.28] No matter what you get for the answer
+[03:07.89] No matter where you roam for the reason
+[03:11.30] Your elation is high
+[03:21.30] 
+[03:17.43] Don't be shy whenever you want something
+[03:21.16] What you waiting for?
+[03:23.16] Find your door
+[03:24.69] Gotta hold your own and stay don't run away
+[03:28.12] When you show (will to live there's no way you)
+[03:31.98] Will lose it after finding that anything
+[03:35.28] 'Cause life is full of points you score
+[03:38.76] You'll see, brighter days coming
+[03:40.83] All the nights becoming day
+[03:44.03] On your mark!!
+```
